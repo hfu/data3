@@ -25,7 +25,7 @@
 <details><summary>データ標準の活用</summary>
 データは可能な限り標準を活用する。
 </details>
-<details><sumary>データの品質確保</summary>
+<details><summary>データの品質確保</summary>
 データの誤りが入りにくい入力や中間処理、検証を行い、データの品質を確保する。
 </details>
 <details><summary>データ資産の整理</summary>
