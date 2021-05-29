@@ -1,14 +1,24 @@
 # 行政におけるデータ行動原則
 [包括的データ戦略（案）](https://www.kantei.go.jp/jp/singi/it2/dgov/data_strategy_tf/dai7/siryou8-2.pdf)では、今後行政分野において改革を行う際に遵守すべき**行政におけるデータ行動原則**を下記のとおり定めている。
 
+**エビデンスに基づく政策立案（EBPM）**の推進も、この原則の背景となっている。
+
 ## データに基づく行政（文化の醸成）
 行政を行うにあたって**データを重視する姿勢・文化**を醸成する。
 <details><summary>政策課題に対応するデータの特定</summary>
-政策課題を明確にするためのデータを明確化、発掘する
+政策課題を明確にするためのデータを明確化して、発掘する。
 </details>
-<details><summary></summary>
+<details><summary>意思決定のためのデータの使用</summary>
+データに基づく客観的な判断を行う。
+また、データに基づく政策のモニタリング・検証を行い、政策の改善につなげる。
 </details>
-<details><summary></summary>
+<details><summary>データ視点での業務の見直し</summary>
+紙等で行われていた業務を、データの視点で抜本的に見直す。
 </details>
-<details><summary></summary>
+<details><summary>行政によるデータ作成・提供</summary>
+社会に貢献するデータを積極的に整備し、必要な範囲で公開する。
 </details>
+
+## データエコシステムの構築
+
+## データの最大限の利活用
