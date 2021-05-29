@@ -6,5 +6,9 @@
 <details><summary>政策課題に対応するデータの特定</summary>
 政策課題を明確にするためのデータを明確化、発掘する
 </details>
-<details><summary></summaro>
+<details><summary></summary>
+</details>
+<details><summary></summary>
+</details>
+<details><summary></summary>
 </details>
