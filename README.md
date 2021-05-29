@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# 行政におけるデータ行動原則
+[包括的データ戦略（案）](https://www.kantei.go.jp/jp/singi/it2/dgov/data_strategy_tf/dai7/siryou8-2.pdf)では、今後行政分野において改革を行う際に遵守すべき**行政におけるデータ行動原則**を下記のとおり定めている。
 
-You can use the [editor on GitHub](https://github.com/hfu/data3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hfu/data3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## データに基づく行政（文化の醸成）
+行政を行うにあたって**データを重視する姿勢・文化**を醸成する。
+<details><summary>政策課題に対応するデータの特定</summary>
+政策課題を明確にするためのデータを明確化、発掘する
+</details>
+<details><summary></summaro>
+</details>
