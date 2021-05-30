@@ -1,5 +1,5 @@
 # Principles for data-oriented conduct in the administration
-[The Comprehensive Data Strategy （Draft, in Japanese）](https://www.kantei.go.jp/jp/singi/it2/dgov/data_strategy_tf/dai7/siryou8-2.pdf)
+[The Comprehensive Data Strategy (draft, in Japanese)](https://www.kantei.go.jp/jp/singi/it2/dgov/data_strategy_tf/dai7/siryou8-2.pdf)
 stipulates the following **principles for data-oriented conduct in the administration**
 that should be observed when reforming administration in the future.
 The principles will also promote **Evidence-based Policy Making (EBPM)**.
